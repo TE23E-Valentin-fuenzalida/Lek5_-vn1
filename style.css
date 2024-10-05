@@ -1,0 +1,44 @@
+.stor-box{
+    background-color: rgb(38, 34, 35);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.röd-box{
+    background-color: rgb(227, 11, 22);
+    min-width: 200px;
+    min-height: 200px;
+    font-size: 80px;
+}
+
+.grön-box{
+    background-color: rgb(35, 255, 23);
+    min-width: 200px;
+    min-height: 200px;
+    font-size: 60px;
+}
+
+.blå-box{
+    background-color: rgb(9, 19, 219);
+    min-width: 200px;
+    min-height: 200px;
+    font-size: 40px;
+}
+
+.röd-text{
+    font-size: 80px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.grön-text{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.blå-text{
+    font-size: 40px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
